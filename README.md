@@ -10,10 +10,12 @@
 
 ## Features
 
-- **Batch convert** — drop multiple PDFs at once and convert them all to images
-- **Choose format** — export as PNG or JPEG
-- **Custom DPI** — select 72, 150, or 300 DPI for screen or print quality
-- **Web download tab** — paste a URL, scan the page for PDF links, and download them in bulk
+- **Batch convert** — drag and drop multiple PDFs and convert them all to JPEG images
+- **Web download tab** — paste a URL to scan a page for PDF links and bulk download them
+- **URL pattern generator** — generate numbered URL lists (e.g. `file00001.pdf` → `file00100.pdf`) with zero-padding support
+- **Export to PowerPoint** — pack your converted images into a `.pptx` file automatically
+- **One-click pipeline** — download PDFs then convert them in one click
+- **Smart download log** — skips files you've already downloaded
 - **No installation needed** — single `.exe`, just double-click and go (Windows)
 - **Free and open source** — MIT licensed
 
