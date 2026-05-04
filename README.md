@@ -37,7 +37,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/NateRudquist/PDFtoIMAGE.git
+git clone https://github.com/NatetheGreat1911/PDFtoIMAGE.git
 cd PDFtoIMAGE
 
 # Install dependencies
