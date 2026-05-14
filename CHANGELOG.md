@@ -4,6 +4,13 @@ All notable changes to PDF to Image are documented here.
 
 ---
 
+## [1.2] - 2026-05-13
+
+### Removed
+- **Clear Output Folder** button removed from the Convert tab — prevents accidental data loss for non-technical users
+
+---
+
 ## [1.1] - 2026-04-19
 
 Complete rewrite as a full GUI application.
@@ -16,7 +23,7 @@ Complete rewrite as a full GUI application.
 - **One-click pipeline** — "Convert Downloaded Files" button sends downloaded PDFs straight to the Convert tab
 - **Download log** — tracks already-downloaded files and skips them on repeat runs
 - **Stop button** — cancel an in-progress download at any time
-- Output folder picker with a "Clear Output Folder" button
+- Output folder picker with Browse button
 - Dark theme UI built with PySide6
 - Windows standalone `.exe` built with PyInstaller (Poppler bundled)
 
