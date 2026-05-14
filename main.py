@@ -694,7 +694,7 @@ class ExportDialog(QDialog):
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("PDF to Image v1.1")
+        self.setWindowTitle("PDF to Image v1.2")
         self.setMinimumSize(660, 680)
 
         if getattr(sys, "frozen", False):
@@ -737,7 +737,7 @@ class MainWindow(QMainWindow):
         name.setStyleSheet(f"font-size: 17px; font-weight: 700; color: {TEXT};")
         layout.addWidget(name)
 
-        version = QLabel("Version 1.1")
+        version = QLabel("Version 1.2")
         version.setStyleSheet(f"color: {TEXT_DIM}; font-size: 12px;")
         layout.addWidget(version)
 
