@@ -1,12 +1,12 @@
 [Setup]
 AppName=PDF to Image Converter
-AppVersion=1.1
+AppVersion=1.2
 AppPublisher=Nate Rudquist
 AppCopyright=Copyright (C) 2026 Nate Rudquist
 DefaultDirName={autopf}\PDF to Image Converter
 DefaultGroupName=PDF to Image Converter
 OutputDir=..\installer_output
-OutputBaseFilename=PDF_to_Image_Setup_v1.1
+OutputBaseFilename=PDF_to_Image_Setup_v1.2
 SetupIconFile=
 Compression=lzma2
 SolidCompression=yes
